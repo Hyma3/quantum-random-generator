@@ -18,7 +18,7 @@ Ensure you have **Python 3.10+** (Python 3.12 recommended).
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/quantum-rng.git](https://github.com/your-username/quantum-rng.git)
+    git clone [https://github.com/Hyma3/quantum-rng.git](https://github.com/Hyma3/quantum-rng.git)
     cd quantum-rng
     ```
 
